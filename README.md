@@ -1,6 +1,4 @@
 # MusicPop-ups
-当然，以下是刚刚说的话转化为 Markdown 格式的内容：
-
 ```markdown
 # 项目描述
 
